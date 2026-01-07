@@ -1,6 +1,8 @@
 # Static web app hosted on AWS S3 + CloudFront
 Hosted a React static web application using Amazon S3 and CloudFront, implementing CDN caching and HTTPS.
 
+Visit the app using this [link](https://d2smz474m3m2mb.cloudfront.net/)
+
 ## Technologies used
 - AWS S3 (Static Website Hosting)
 - AWS CloudFront (CDN)
@@ -18,6 +20,9 @@ Hosted a React static web application using Amazon S3 and CloudFront, implementi
 
 ## Screenshots
 ![S3 bucket configuration](screenshots/screenshot_1.png)
+
 ![CloudFront configuration](screenshots/screenshot_2.png)
+
 ![CloudFront configuration](screenshots/screenshot_3.png)
+
 ![App hosted on CloudFront](screenshots/screenshot_4.png)

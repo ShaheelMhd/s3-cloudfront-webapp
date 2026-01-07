@@ -1,2 +1,2 @@
 # s3-cloudfront-webapp
-This repo shows a basic static web app hosted on AWS using S3 buckets and CloudFront CDN
+Hosted a React static web application using Amazon S3 and CloudFront, implementing CDN caching, HTTPS, and SPA routing.

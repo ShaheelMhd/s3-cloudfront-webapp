@@ -3,6 +3,16 @@ Hosted a React static web application using Amazon S3 and CloudFront, implementi
 
 Visit the app using this [link](https://d2smz474m3m2mb.cloudfront.net/)
 
+## Architecture overview
+
+![architecture](/architecture-diagram.png)
+
+### High-level flow
+
+User
+→ CloudFront CDN
+→ S3 bucket (origin)
+
 ## Technologies used
 - AWS S3 (Static Website Hosting)
 - AWS CloudFront (CDN)
